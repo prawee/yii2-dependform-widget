@@ -1,0 +1,26 @@
+{
+    "name": "prawee/yii2-dependform-widgets",
+    "description": "How to using relations model in single form",
+    "type": "yii2-widget",
+    "keywords": ["yii2", "widget", "form", "dependform", "relation", "model"],
+    "homepage": "https://github.com/prawee/yii2-dependform-widgets",
+    "license": "BSD-3-Clause",
+    "minimum-stability": "dev",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "Prawee Wongsa",
+            "email": "konkeanweb@gmail.com",
+            "homepage": "http://prawee.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.14",
+        "yiisoft/yii2-bootstrap4": "~2.0.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "prawee\\widgets\\": "src"
+        }
+    }
+}

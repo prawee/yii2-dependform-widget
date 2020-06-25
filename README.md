@@ -56,6 +56,10 @@ echo DependWidget::widget([
 <?php ActiveForm::end(); ?>
 ```
 
+[[https://github.com/prawee/yii2-dependform-widgets/blob/master/src/images/yii2-validate-muliple-model-1.png|alt=normal]]
+
+[[https://github.com/prawee/yii2-dependform-widgets/blob/master/src/images/yii2-validate-muliple-model-2.png|alt=action]]
+
 ### Controller
 
 ```bash
